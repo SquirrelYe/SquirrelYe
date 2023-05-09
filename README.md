@@ -17,16 +17,10 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=SquirrelYe&repo=github-readme-stats&count_private=true&theme=light&show_icons=true"/>
 
-### 👨‍🚒 关于我
+### 👨‍🚒 探秘全栈开发世界的Web前端工程师！
 
-- ⚡ 我有一只特别可爱的猫猫叫“牧羊猪”~
-- 🤔 我的日常公众号是“牧羊的猪”~
-- 💬 我写了一本 [Vue 的开源书](https://godbasin.github.io/vue-ebook/)~
-- 📫 欢迎来[我的前端游乐场](https://godbasin.github.io/front-end-playground/)一起玩~
-- 😄 最近刚开始学着做视频分享啦（[B站: 被删](https://space.bilibili.com/42233366)）！
+- 👋 大家好！我是一名在腾讯IEG工作三年的Web前端开发工程师。对于前后端技术全栈开发，我可谓是熟练掌握！ 🤓
+- 💻 作为一名前端工程师，我的主要工作是处理用户交互界面并和后台进行数据交互处理。同时，我也很擅长使用Node.js、Express等后端框架进行全栈开发。 🔨
+- 🎉 在我的职业生涯中，我参与并负责了多个大型项目，包括游戏、社交平台以及电商应用等等。这些经历都让我更加深入理解了前端和后端开发的联系。 💼
+- 🔥 如果你想了解更多关于Web全栈开发的知识或者聊聊我的工作经验，请私信我哦！我们可以共同探索这个充满挑战但又充满机会的领域。 😍
 
-### 🔥 我的项目
-
-- 🔰 [`被删前端博客`](https://github.com/godbasin/godbasin.github.io) My Blog.
-- 🌱 [`小程序最佳实践`](https://github.com/godbasin/wxapp-typescript-demo) Miniprogram typescript demo.
-- 📃 [`vue select2 component`](https://github.com/godbasin/vue-select2) [`box2djs-tutorial`](https://github.com/godbasin/box2djs-tutorial) [`《深入理解Vue.js实战》`](https://github.com/godbasin/vue-ebook)  ...
