@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=SquirrelYe&repo=github-readme-stats&count_private=true&theme=light&show_icons=true"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=SquirrelYe&repo=github-readme-stats&count_private=true&theme=light&show_icons=true)](https://github-readme-stats.vercel.app/api?username=SquirrelYe&repo=github-readme-stats&count_private=true&theme=light&show_icons=true)
 
 ### 👨‍🚒 探秘全栈开发世界的Web前端工程师！
 
