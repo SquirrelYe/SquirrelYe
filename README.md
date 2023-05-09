@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=SquirrelYe&theme=dark&show_icons=true"/>
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SquirrelYe)](https://github.com/SquirrelYe/github-readme-stats) -->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=SquirrelYe&repo=github-readme-stats&count_private=true&theme=light&show_icons=true"/>
 
 ### 👨‍🚒 关于我
 
