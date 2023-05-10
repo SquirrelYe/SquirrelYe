@@ -22,14 +22,23 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Nodejs](https://img.shields.io/badge/NodeJS-43853D?style=flat&logo=node.js&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ![framework_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Frameworks%20I%20use-orange)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Java SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat&logo=spring-boot)
+![Node Express](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express)
+![Node KOA](https://img.shields.io/badge/Koa-404D59?style=flat&logo=koa)
+![Node Nest](https://img.shields.io/badge/NestJS-404D59?style=flat&logo=nestjs)
+![Web Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js)
+![Web React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Web Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular)
+
+
+
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
