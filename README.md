@@ -85,7 +85,9 @@ class About extends SquirrelYe {
 &nbsp;
 [<img src="https://img.shields.io/badge/WeChat: SquirrelYe-282C34?logo=wechat&logoColor=7BB32E" alt="WeChat logo" title="WeChat" height="25" />](https://github.com/SquirrelYe/SquirrelYe/blob/main/profiles/WeChat.jpg?raw=true){target="_blank"}
 &nbsp;
-[<img src="https://img.shields.io/badge/QQ: 1191882955-282C34?logo=tencent-qq&logoColor=EB1923" alt="QQ logo" title="QQ" height="25" />](https://github.com/SquirrelYe/SquirrelYe/blob/main/profiles/QQ.jpg?raw=true?_blank)
+<a href="https://github.com/SquirrelYe/SquirrelYe/blob/main/profiles/QQ.jpg?raw=true" target="_blank">
+  <img src="https://img.shields.io/badge/QQ: 1191882955-282C34?logo=tencent-qq&logoColor=EB1923" alt="QQ logo" title="QQ" height="25" />
+</a>
 
 ### 📊  这是我的一些统计数据
 
