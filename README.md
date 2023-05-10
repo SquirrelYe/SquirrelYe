@@ -17,8 +17,7 @@
 
 ### 🛠&nbsp;&nbsp;拨开云雾见天日
 
-<!-- 编程语言相关 -->
-![language_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Languages%20I%20use-orange)
+![language_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Languages%20I%20use-orange) <!-- 编程语言相关 -->
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
@@ -27,7 +26,7 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) <br />
+![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) <br /> <!-- 框架相关 -->
 ![framework_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Frameworks%20I%20use-blue)
 ![semicolon](https://img.shields.io/badge/-%3A-blue)
 ![Java SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat&logo=spring-boot)
@@ -36,20 +35,17 @@
 ![Node Nest](https://img.shields.io/badge/NestJS-404D59?style=flat&logo=nestjs)
 ![Web Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js)
 ![Web React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![Web Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular)
-<!-- 跨端开发相关 -->
+![Web Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular) <br /> <!-- 跨端开发相关 -->
 ![cross_platform_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Cross%20Platform%20I%20use-green)
 ![semicolon](https://img.shields.io/badge/-%3A-green)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=flat&logo=electron&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-000000?style=flat&logo=tauri&logoColor=white)
-![Uniapp](https://img.shields.io/badge/uni-app-231F20?style=flat&logo=vue.js&logoColor=white)
-<!-- 服务端渲染相关 -->
+![Uniapp](https://img.shields.io/badge/uni-app-231F20?style=flat&logo=vue.js&logoColor=white) <br /> <!-- 服务端渲染相关 -->
 ![server_side_rendering_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Server%20Side%20Rendering%20I%20use-red)
 ![semicolon](https://img.shields.io/badge/-%3A-red)
 ![Nextjs](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Nuxtjs](https://img.shields.io/badge/Nuxt.js-00C58E?style=flat&logo=nuxt.js&logoColor=white)
-<!-- 打包工具相关 -->
+![Nuxtjs](https://img.shields.io/badge/Nuxt.js-00C58E?style=flat&logo=nuxt.js&logoColor=white) <br /> <!-- 打包工具相关 -->
 ![build_tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Build%20Tools%20I%20use-yellow)
 ![semicolon](https://img.shields.io/badge/-%3A-yellow)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
@@ -57,14 +53,12 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![ES Build](https://img.shields.io/badge/ESBuild-0C4B33?style=flat&logo=esbuild&logoColor=white)
 ![SWC](https://img.shields.io/badge/SWC-F9F9F9?style=flat&logo=swc&logoColor=black)
-![PNPM](https://img.shields.io/badge/PNPM-FF6C37?style=flat&logo=pnpm&logoColor=white)
-<!-- 数据库相关 -->
+![PNPM](https://img.shields.io/badge/PNPM-FF6C37?style=flat&logo=pnpm&logoColor=white) <br /> <!-- 数据库相关 -->
 ![database_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Database%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
 ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-<!-- 云服务相关 -->
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) <br /> <!-- 云服务相关 -->
 ![cloud_service_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Cloud%20Service%20I%20use-blueviolet)
 ![semicolon](https://img.shields.io/badge/-%3A-blueviolet)
 ![Tencent Cloud](https://img.shields.io/badge/Tencent_Cloud-02569B?style=flat&logo=tencent-cloud&logoColor=white)
