@@ -27,7 +27,8 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) <br />
+![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+ <br />
 <!-- 框架相关 -->
 ![framework_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Frameworks%20I%20use-blue)
 ![semicolon](https://img.shields.io/badge/-%3A-blue)
