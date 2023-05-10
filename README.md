@@ -29,13 +29,12 @@
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) <br /> <!-- 框架相关 -->
 ![framework_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Frameworks%20I%20use-blue)
 ![semicolon](https://img.shields.io/badge/-%3A-blue)
+![Web Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js)
+![Web React](https://img.shields.io/badge/React-20232A?style=flat&logo=react) 
 ![Java SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat&logo=spring-boot)
 ![Node Express](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express)
 ![Node KOA](https://img.shields.io/badge/Koa-404D59?style=flat&logo=koa)
-![Node Nest](https://img.shields.io/badge/NestJS-404D59?style=flat&logo=nestjs)
-![Web Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js)
-![Web React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![Web Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular) <br /> <!-- 跨端开发相关 -->
+![Node Nest](https://img.shields.io/badge/NestJS-404D59?style=flat&logo=nestjs) <br /> <!-- 跨端开发相关 -->
 ![cross_platform_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Cross%20Platform%20I%20use-green)
 ![semicolon](https://img.shields.io/badge/-%3A-green)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -76,10 +75,21 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white) <br /> <!-- 操作系统相关 -->
 ![os_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20OS%20I%20use-blue)
 ![semicolon](https://img.shields.io/badge/-%3A-blue)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat&logo=apple&logoColor=white)
+![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat&logo=apple&logoColor=white) <br /> <!-- 其他相关 -->
+![others_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Others%20I%20use-yellowgreen)
+![semicolon](https://img.shields.io/badge/-%3A-yellowgreen)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![K8S](https://img.shields.io/badge/K8S-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat&logo=webassembly&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=ethereum&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+
+
+
 
 ```ts
 class About extends SquirrelYe { 
