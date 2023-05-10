@@ -89,7 +89,7 @@ class About extends SquirrelYe {
 
 ### 📊&nbsp;&nbsp;时光荏苒
 
-[<img src="https://komarev.com/ghpvc/?username=SquirrelYe&style=flat-square&color=orange&label=Profile+Views" alt="Profile Views" title="Profile Views" height="23" />][statistic_profile_views]
+[<img src="https://komarev.com/ghpvc/?username=SquirrelYe&style=flat-square&color=orange&label=Profile+Views" alt="Profile Views" title="Profile Views" height="22" />][statistic_profile_views]
 
 <!-- 链接列表 -->
 <!-- 1. 通用链接地址 -->
