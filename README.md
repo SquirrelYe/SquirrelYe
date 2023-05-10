@@ -63,20 +63,17 @@
 ![semicolon](https://img.shields.io/badge/-%3A-blueviolet)
 ![Tencent Cloud](https://img.shields.io/badge/Tencent_Cloud-02569B?style=flat&logo=tencent-cloud&logoColor=white)
 ![Aliyun](https://img.shields.io/badge/Aliyun-FF6A00?style=flat&logo=aliyun&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-<!-- 版本控制相关 -->
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) <br /> <!-- 版本控制相关 -->
 ![version_control_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Version%20Control%20I%20use-blue)
 ![semicolon](https://img.shields.io/badge/-%3A-blue)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-<!-- 编辑器相关 -->
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) <br /> <!-- 编辑器相关 -->
 ![editor_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Editor%20I%20use-blueviolet)
 ![semicolon](https://img.shields.io/badge/-%3A-blueviolet)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=flat&logo=sublime-text&logoColor=white)
 ![Web Storm](https://img.shields.io/badge/Web_Storm-000000?style=flat&logo=webstorm&logoColor=white)
 ![GoLand](https://img.shields.io/badge/GoLand-000000?style=flat&logo=go&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
-<!-- 操作系统相关 -->
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white) <br /> <!-- 操作系统相关 -->
 ![os_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20OS%20I%20use-blue)
 ![semicolon](https://img.shields.io/badge/-%3A-blue)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
