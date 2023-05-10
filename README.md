@@ -48,10 +48,9 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
 ![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
 
-```dart
-// tools_I_use organized
-class About extends Me { 
-  const myTools = {  
+```ts
+class About extends SquirrelYe { 
+  public static readonly Tools = {  
     "ProgramingLanguages" : { "Java", "Dart", "C++", "C", "Python", "Javascript" },
     "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
     "Database" : { "Firebase", "Sqlite" },
