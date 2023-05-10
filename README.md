@@ -89,7 +89,7 @@ class About extends SquirrelYe {
 
 ### 📊  这是我的一些统计数据
 
-![Totals Hits](https://komarev.com/ghpvc/?username=SquirrelYe&style=flat&color=orange&label=Profile+Views)
+![Totals Hits](https://komarev.com/ghpvc/?username=SquirrelYe&style=for-the-badge&label=Profile+Views)
 
 <!-- 链接列表 -->
 [tech_tools_anchor]: #-探秘全栈开发世界的web前端工程师
