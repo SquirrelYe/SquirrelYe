@@ -51,12 +51,12 @@
 ```ts
 class About extends SquirrelYe { 
     public static readonly Tools = {  
-      ProgramingLanguages : [ "Java", "Dart", "C++", "C", "Python", "Javascript" ],
-      OtherLanguages : [ "HTML", "CSS", "Bash", "Json", "Markdown" ],
-      Database : [ "Firebase", "Sqlite" ],
-      Editors : [ "Vscode", "Sublime", "Neovim" ],
-      Platforms : [ "GNU/Linux", "Windows" ],
-      OtherTools : [ "Git", "Figma", "Photoshop", "Gimp", "Lightroom" ]
+        ProgramingLanguages : [ "Java", "Dart", "C++", "C", "Python", "Javascript" ],
+        OtherLanguages : [ "HTML", "CSS", "Bash", "Json", "Markdown" ],
+        Database : [ "Firebase", "Sqlite" ],
+        Editors : [ "Vscode", "Sublime", "Neovim" ],
+        Platforms : [ "GNU/Linux", "Windows" ],
+        OtherTools : [ "Git", "Figma", "Photoshop", "Gimp", "Lightroom" ]
     };
 }
 ```
