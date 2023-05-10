@@ -1,7 +1,5 @@
 ### 👋 Hi there, I'm SquirrelYe! 👋
 
-风继续吹，雨不停下。
-
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api?username=SquirrelYe&repo=github-readme-stats&count_private=true&theme=light&show_icons=true)](https://github-readme-stats.vercel.app/api?username=SquirrelYe&repo=github-readme-stats&count_private=true&theme=light&show_icons=true) -->
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai" />
