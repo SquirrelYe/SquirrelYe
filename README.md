@@ -11,7 +11,7 @@
 - 🎉 在我的职业生涯中，我参与并负责了多个大型项目，包括游戏、社交平台以及电商应用等等。这些经历都让我更加深入理解了前端和后端开发的联系。 💼
 - 🔥 如果你想了解更多关于Web全栈开发的知识或者聊聊我的工作经验，请私信我哦！我们可以共同探索这个充满挑战但又充满机会的领域。 😍
 
-<br />
+<p style="margin-bottom: 10px"></p>
 
 ### 🛠  拨开云雾见天日
 
@@ -47,11 +47,15 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />][tech_tools_anchor]
 
-### 📫 联系我
+<p style="margin-bottom: 10px"></p>
 
-- 📧 Email: <a href="mailto:will@aesen.cc">will@aesen.cc</a>
-- 📱 WeChat: yexuan_svip0628
-- 🐧 QQ: 1191882955
+### 📫 这样找到我
+
+[<img src="https://img.shields.io/badge/WeChat: SquirrelYe-282C34?logo=wechat&logoColor=7BB32E" alt="WeChat logo" title="WeChat" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/QQ: 1191882955-282C34?logo=tencent-qq&logoColor=EB1923" alt="QQ logo" title="QQ" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Email: will@aesen.cc-282C34?logo=gmail&logoColor=EA4335" alt="Email logo" title="Email" height="25" />][tech_tools_anchor]
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
