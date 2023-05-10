@@ -2,7 +2,7 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api?username=SquirrelYe&repo=github-readme-stats&count_private=true&theme=light&show_icons=true)](https://github-readme-stats.vercel.app/api?username=SquirrelYe&repo=github-readme-stats&count_private=true&theme=light&show_icons=true) -->
 
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<img align="right" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 ### 👨‍🚒 探秘全栈开发世界的Web前端工程师！
 
