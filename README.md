@@ -83,14 +83,15 @@ class About extends SquirrelYe {
 
 [<img src="https://img.shields.io/badge/Email: will@aesen.cc-282C34?logo=gmail&logoColor=EA4335" alt="Email logo" title="Email" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/WeChat: SquirrelYe-282C34?logo=wechat&logoColor=7BB32E" alt="WeChat logo" title="WeChat" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/WeChat: SquirrelYe-282C34?logo=wechat&logoColor=7BB32E" alt="WeChat logo" title="WeChat" height="25" />][profile_wechat_image]
 &nbsp;
-[<img src="https://img.shields.io/badge/QQ: 1191882955-282C34?logo=tencent-qq&logoColor=EB1923" alt="QQ logo" title="QQ" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/QQ: 1191882955-282C34?logo=tencent-qq&logoColor=EB1923" alt="QQ logo" title="QQ" height="25" />][profile_qq_image]
 
 ### 📊  这是我的一些统计数据
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SquirrelYe&style=flat&label=Profile+Views)
 
 <!-- 链接列表 -->
-[profile_qq_image]: https://github.com/SquirrelYe/SquirrelYe/blob/main/images/hyperkitty.gif?raw=true
+[profile_qq_image]: https://github.com/SquirrelYe/SquirrelYe/blob/main/profiles/QQ.jpg?raw=true
+[profile_wechat_image]: https://github.com/SquirrelYe/SquirrelYe/blob/main/profiles/WeChat.jpg?raw=true
 [tech_tools_anchor]: #-探秘全栈开发世界的web前端工程师
