@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm SquirrelYe! 👋
+### 👋 Hi there, I'm SquirrelYe 「风继续吹」!
 
 <!-- 统计Github数据 -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api?username=SquirrelYe&repo=github-readme-stats&count_private=true&theme=light&show_icons=true)](https://github-readme-stats.vercel.app/api?username=SquirrelYe&repo=github-readme-stats&count_private=true&theme=light&show_icons=true) -->
@@ -51,12 +51,12 @@
 ```ts
 class About extends SquirrelYe { 
   public static readonly Tools = {  
-    "ProgramingLanguages" : { "Java", "Dart", "C++", "C", "Python", "Javascript" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Database" : { "Firebase", "Sqlite" },
-    "Editors" : { "Vscode", "Sublime", "Neovim" },
-    "Platforms" : { "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
+    ProgramingLanguages : [ "Java", "Dart", "C++", "C", "Python", "Javascript" ],
+    OtherLanguages : [ "HTML", "CSS", "Bash", "Json", "Markdown" ],
+    Database : [ "Firebase", "Sqlite" ],
+    Editors : [ "Vscode", "Sublime", "Neovim" ],
+    Platforms : [ "GNU/Linux", "Windows" ],
+    OtherTools : [ "Git", "Figma", "Photoshop", "Gimp", "Lightroom" ]
   };
 }
 ```
