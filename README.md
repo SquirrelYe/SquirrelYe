@@ -92,4 +92,5 @@ class About extends SquirrelYe {
 ![Profile Views](https://komarev.com/ghpvc/?username=SquirrelYe&style=flat&label=Profile+Views)
 
 <!-- 链接列表 -->
+[profile_qq_image]: https://github.com/SquirrelYe/SquirrelYe/blob/main/images/hyperkitty.gif?raw=true
 [tech_tools_anchor]: #-探秘全栈开发世界的web前端工程师
