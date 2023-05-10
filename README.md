@@ -15,7 +15,7 @@
 - 🎉 在我的职业生涯中，我参与并负责了多个大型项目，包括游戏、社交平台以及电商应用等等。这些经历都让我更加深入理解了前端和后端开发的联系。 💼
 - 🔥 如果你想了解更多关于Web全栈开发的知识或者聊聊我的工作经验，请私信我哦！我们可以共同探索这个充满挑战但又充满机会的领域。 😍
 
-### 🛠&nbsp;&nbsp;拨开云雾见天日
+### 🛠&nbsp;&nbsp;拨开云雾见天日~
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
@@ -58,10 +58,10 @@ class About extends SquirrelYe {
 }
 ```
 
-### 📚&nbsp;&nbsp;我的学习路线
+### 📚&nbsp;&nbsp;我在干什么？
 
 
--  <img alt="GIF" src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/developer.gif?raw=true" width="25" /> &nbsp; I’m currently learning **Flutter & WebDev**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+-  <img alt="GIF" src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/developer.gif?raw=true" width="25" /> &nbsp; I’m currently learning **Flutter & WebDev**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Beetle.png" alt="Beetle" width="15%" /><br>
 - <img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
 - <img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
 - <img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/spxd007)**<br>
@@ -79,7 +79,7 @@ class About extends SquirrelYe {
   </details>
 </div>
 
-### 📫&nbsp;&nbsp;这样找到我
+### 📫&nbsp;&nbsp;一起聊聊呗！
 
 [<img src="https://img.shields.io/badge/Email: will@aesen.cc-282C34?logo=gmail&logoColor=EA4335" alt="Email logo" title="Email" height="25" />][profile_mail]
 &nbsp;
@@ -87,7 +87,7 @@ class About extends SquirrelYe {
 &nbsp;
 [<img src="https://img.shields.io/badge/QQ: 1191882955-282C34?logo=tencent-qq&logoColor=EB1923" alt="QQ logo" title="QQ" height="25" />][profile_qq_image]
 
-### 📊&nbsp;&nbsp;时光荏苒
+### 📊&nbsp;&nbsp;时光与流年……
 
 [<img src="https://komarev.com/ghpvc/?username=SquirrelYe&style=flat-square&color=orange&label=Profile+Views" alt="Profile Views" title="Profile Views" height="23" />][statistic_profile_views]
 
