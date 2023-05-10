@@ -89,7 +89,7 @@ class About extends SquirrelYe {
 
 ### 📊  这是我的一些统计数据
 
-[<img src="https://komarev.com/ghpvc/?username=SquirrelYe&style=flat&label=Profile+Views" alt="Profile Views" title="Profile Views" height="25" />][statistic_profile_views]
+[<img src="https://komarev.com/ghpvc/?username=SquirrelYe&style=flat-square&color=orange&label=Profile+Views" alt="Profile Views" title="Profile Views" height="24" />][statistic_profile_views]
 
 <!-- 链接列表 -->
 <!-- 1. 通用链接地址 -->
@@ -101,4 +101,4 @@ class About extends SquirrelYe {
 [profile_wechat_image]: https://github.com/SquirrelYe/SquirrelYe/blob/main/profiles/WeChat.jpg?raw=true
 
 <!-- 3. 统计相关链接地址 -->
-[statistic_profile_views]: https://komarev.com/ghpvc/?username=SquirrelYe&style=flat&label=Profile+Views
+[statistic_profile_views]: https://komarev.com/ghpvc/?username=SquirrelYe&style=flat-square&color=orange&label=Profile+Views
