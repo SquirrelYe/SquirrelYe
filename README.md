@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm SquirrelYe 「风继续吹」!
+### 👋  Hi there, I'm SquirrelYe 「风继续吹」!
 
 <!-- 统计Github数据 -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api?username=SquirrelYe&repo=github-readme-stats&count_private=true&theme=light&show_icons=true)](https://github-readme-stats.vercel.app/api?username=SquirrelYe&repo=github-readme-stats&count_private=true&theme=light&show_icons=true) -->
@@ -8,10 +8,7 @@
 
 <img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
 
-
-![Totals Hits](https://komarev.com/ghpvc/?username=SquirrelYe&style=flat&color=orange&label=PROFILE+VIEWS)
-
-### 👨‍🚒 探秘全栈开发世界的Web前端工程师！
+### 👨‍🚒  探秘全栈开发世界的Web前端工程师！
 
 - 👋 大家好！我是一名在 **Tencent** IEG事业群 工作三年的Web前端开发工程师。对于前后端技术全栈开发，我可谓是熟练掌握！ 🤓
 - 💻 作为一名前端工程师，我的主要工作是处理用户交互界面并和后台进行数据交互处理。同时，我也很擅长使用 **NodeJS**、**Golang**、**Java** 等后端语言进行全栈开发。 🔨
@@ -61,7 +58,7 @@ class About extends SquirrelYe {
 }
 ```
 
-### 📚 我的学习路线
+### 📚  我的学习路线
 
 
 -  <img alt="GIF" src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/developer.gif?raw=true" width="25" /> &nbsp; I’m currently learning **Flutter & WebDev**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
@@ -82,7 +79,7 @@ class About extends SquirrelYe {
   </details>
 </div>
 
-### 📫 这样找到我
+### 📫  这样找到我
 
 [<img src="https://img.shields.io/badge/WeChat: SquirrelYe-282C34?logo=wechat&logoColor=7BB32E" alt="WeChat logo" title="WeChat" height="25" />][tech_tools_anchor]
 &nbsp;
@@ -90,4 +87,9 @@ class About extends SquirrelYe {
 &nbsp;
 [<img src="https://img.shields.io/badge/Email: will@aesen.cc-282C34?logo=gmail&logoColor=EA4335" alt="Email logo" title="Email" height="25" />][tech_tools_anchor]
 
+### 📊  这是我的一些统计数据
+
+![Totals Hits](https://komarev.com/ghpvc/?username=SquirrelYe&style=flat&color=orange&label=PROFILE+VIEWS)
+
+<!-- 链接列表 -->
 [tech_tools_anchor]: #-探秘全栈开发世界的web前端工程师
