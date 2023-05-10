@@ -89,10 +89,16 @@ class About extends SquirrelYe {
 
 ### 📊  这是我的一些统计数据
 
-![Profile Views](https://komarev.com/ghpvc/?username=SquirrelYe&style=flat&label=Profile+Views)
+[<img src="https://komarev.com/ghpvc/?username=SquirrelYe&style=flat&label=Profile+Views" alt="Profile Views" title="Profile Views" height="25" />][statistic_profile_views]
 
 <!-- 链接列表 -->
+<!-- 1. 通用链接地址 -->
+[tech_tools_anchor]: #-探秘全栈开发世界的web前端工程师
+
+<!-- 2. 个人详细信息链接地址 -->
 [profile_mail]: mailto:will@aesen.cc
 [profile_qq_image]: https://github.com/SquirrelYe/SquirrelYe/blob/main/profiles/QQ.jpg?raw=true
 [profile_wechat_image]: https://github.com/SquirrelYe/SquirrelYe/blob/main/profiles/WeChat.jpg?raw=true
-[tech_tools_anchor]: #-探秘全栈开发世界的web前端工程师
+
+<!-- 3. 统计相关链接地址 -->
+[statistic_profile_views]: https://komarev.com/ghpvc/?username=SquirrelYe&style=flat&label=Profile+Views
