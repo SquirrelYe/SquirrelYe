@@ -17,6 +17,7 @@
 
 ### 🛠&nbsp;&nbsp;拨开云雾见天日
 
+<!-- 编程语言相关 -->
 ![language_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Languages%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
@@ -27,6 +28,7 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) <br />
+<!-- 框架相关 -->
 ![framework_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Frameworks%20I%20use-blue)
 ![semicolon](https://img.shields.io/badge/-%3A-blue)
 ![Java SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat&logo=spring-boot)
@@ -36,30 +38,58 @@
 ![Web Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js)
 ![Web React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
 ![Web Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular)
-
-
-
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
-![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white)
-![Gimp](https://img.shields.io/badge/gimp-5C5543?style=flat&logo=gimp&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
-![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
+<!-- 跨端开发相关 -->
+![cross_platform_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Cross%20Platform%20I%20use-green)
+![semicolon](https://img.shields.io/badge/-%3A-green)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=flat&logo=electron&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-000000?style=flat&logo=tauri&logoColor=white)
+![Uniapp](https://img.shields.io/badge/uni-app-231F20?style=flat&logo=vue.js&logoColor=white)
+<!-- 服务端渲染相关 -->
+![server_side_rendering_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Server%20Side%20Rendering%20I%20use-red)
+![semicolon](https://img.shields.io/badge/-%3A-red)
+![Nextjs](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Nuxtjs](https://img.shields.io/badge/Nuxt.js-00C58E?style=flat&logo=nuxt.js&logoColor=white)
+<!-- 打包工具相关 -->
+![build_tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Build%20Tools%20I%20use-yellow)
+![semicolon](https://img.shields.io/badge/-%3A-yellow)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
+![Rollup](https://img.shields.io/badge/Rollup-EC4A3F?style=flat&logo=rollup.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![ES Build](https://img.shields.io/badge/ESBuild-0C4B33?style=flat&logo=esbuild&logoColor=white)
+![SWC](https://img.shields.io/badge/SWC-F9F9F9?style=flat&logo=swc&logoColor=black)
+![PNPM](https://img.shields.io/badge/PNPM-FF6C37?style=flat&logo=pnpm&logoColor=white)
+<!-- 数据库相关 -->
+![database_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Database%20I%20use-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
+![Mysql](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+<!-- 云服务相关 -->
+![cloud_service_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Cloud%20Service%20I%20use-blueviolet)
+![semicolon](https://img.shields.io/badge/-%3A-blueviolet)
+![Tencent Cloud](https://img.shields.io/badge/Tencent_Cloud-02569B?style=flat&logo=tencent-cloud&logoColor=white)
+![Aliyun](https://img.shields.io/badge/Aliyun-FF6A00?style=flat&logo=aliyun&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+<!-- 版本控制相关 -->
+![version_control_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Version%20Control%20I%20use-blue)
+![semicolon](https://img.shields.io/badge/-%3A-blue)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<!-- 编辑器相关 -->
+![editor_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Editor%20I%20use-blueviolet)
+![semicolon](https://img.shields.io/badge/-%3A-blueviolet)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=flat&logo=sublime-text&logoColor=white)
+![Web Storm](https://img.shields.io/badge/Web_Storm-000000?style=flat&logo=webstorm&logoColor=white)
+![GoLand](https://img.shields.io/badge/GoLand-000000?style=flat&logo=go&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+<!-- 操作系统相关 -->
+![os_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20OS%20I%20use-blue)
+![semicolon](https://img.shields.io/badge/-%3A-blue)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat&logo=apple&logoColor=white)
 
 ```ts
 class About extends SquirrelYe { 
