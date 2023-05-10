@@ -1,6 +1,8 @@
 ### 👋「风继续吹，雨不停下」 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=SquirrelYe&repo=github-readme-stats&count_private=true&theme=light&show_icons=true)](https://github-readme-stats.vercel.app/api?username=SquirrelYe&repo=github-readme-stats&count_private=true&theme=light&show_icons=true)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api?username=SquirrelYe&repo=github-readme-stats&count_private=true&theme=light&show_icons=true)](https://github-readme-stats.vercel.app/api?username=SquirrelYe&repo=github-readme-stats&count_private=true&theme=light&show_icons=true) -->
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### 👨‍🚒 探秘全栈开发世界的Web前端工程师！
 
@@ -11,11 +13,9 @@
 
 ## 🛠  拨开云雾见天日
 
-<a name="learning-now"></a>
-
-[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
 &nbsp;
@@ -37,24 +37,11 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />][tech_tools_anchor]
 
-<a name="learning-next"></a>
-
-
 ### 📫 联系我
 
-- 📧 Email: 
-- 📱 WeChat:
-- 🐧 QQ:
-- 📝 Blog:
-- 📷 Instagram:
-- 📺 Youtube:
-- 📖 Zhihu:
-- 📖 Juejin:
-- 📖 Segmentfault:
-- 📖 CSDN:
-- 📖 LeetCode:
-- 📖 HackerRank:
-- 📖 HackerEarth: 
+- 📧 Email: <a href="mailto:will@aesen.cc">will@aesen.cc</a>
+- 📱 WeChat: yexuan_svip0628
+- 🐧 QQ: 1191882955
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
