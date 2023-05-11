@@ -44,7 +44,11 @@
 ![server_side_rendering_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Server%20Side%20Rendering%20I%20use-red)
 ![semicolon](https://img.shields.io/badge/-%3A-red)
 ![Nextjs](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Nuxtjs](https://img.shields.io/badge/Nuxt.js-00C58E?style=flat&logo=nuxt.js&logoColor=white) <br /> <!-- 打包工具相关 -->
+![Nuxtjs](https://img.shields.io/badge/Nuxt.js-00C58E?style=flat&logo=nuxt.js&logoColor=white) <br /> <!-- 常见工具相关 -->
+![utils_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Utils%20I%20use-yellowgreen)
+![semicolon](https://img.shields.io/badge/-%3A-yellowgreen)
+![Lodash](https://img.shields.io/badge/Lodash-000000?style=flat&logo=lodash&logoColor=white)
+![RXJS](https://img.shields.io/badge/RXJS-000000?style=flat&logo=reactivex&logoColor=white) <br /> <!-- 打包工具相关 -->
 ![build_tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Build%20Tools%20I%20use-yellow)
 ![semicolon](https://img.shields.io/badge/-%3A-yellow)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
@@ -82,6 +86,7 @@
 ![semicolon](https://img.shields.io/badge/-%3A-yellowgreen)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![K8S](https://img.shields.io/badge/K8S-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![CI CD](https://img.shields.io/badge/CI/CD-000000?style=flat&logo=github-actions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat&logo=webassembly&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=ethereum&logoColor=white)
