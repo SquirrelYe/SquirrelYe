@@ -15,7 +15,7 @@
 - 🎉 在我的职业生涯中，我参与并负责了多个大型项目，包括游戏、社交平台以及电商应用等等。这些经历都让我更加深入理解了前端和后端开发的联系。 💼
 - 🔥 如果你想了解更多关于Web全栈开发的知识或者聊聊我的工作经验，请私信我哦！我们可以共同探索这个充满挑战但又充满机会的领域。 😍
 
-### 🛠&nbsp;&nbsp;拨开云雾见天日
+### 🛠&nbsp;&nbsp;拨开云雾，柳暗花明
 
 ![language_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Languages%20I%20use-orange) <!-- 编程语言相关 -->
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
@@ -37,14 +37,13 @@
 ![Node KOA](https://img.shields.io/badge/Koa-404D59?style=flat&logo=koa)
 ![Node Nest](https://img.shields.io/badge/NestJS-404D59?style=flat&logo=nestjs)
 ![Go Gin](https://img.shields.io/badge/Gin-404D59?style=flat&logo=go)
-![Go Gorm](https://img.shields.io/badge/Gorm-404D59?style=flat&logo=go)
- <br /> <!-- 跨端开发相关 -->
+![Go Gorm](https://img.shields.io/badge/Gorm-404D59?style=flat&logo=go) <br /> <!-- 跨端开发相关 -->
 ![cross_platform_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Cross%20Platform%20I%20use-green)
 ![semicolon](https://img.shields.io/badge/-%3A-green)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=flat&logo=electron&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-000000?style=flat&logo=tauri&logoColor=white)
-![Uniapp](https://img.shields.io/badge/uni-app-231F20?style=flat&logo=vue.js&logoColor=white) <br /> <!-- 服务端渲染相关 -->
+![Uniapp](https://img.shields.io/badge/uni-app-231F20?style=flat&logo=vue.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) <br /> <!-- 服务端渲染相关 -->
 ![server_side_rendering_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Server%20Side%20Rendering%20I%20use-red)
 ![semicolon](https://img.shields.io/badge/-%3A-red)
 ![Nextjs](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
@@ -99,13 +98,11 @@
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
 
 
-
-
 ```ts
 class About extends SquirrelYe { 
-    public static readonly Tools = {  
-        ProgramingLanguages : [ "Java", "Dart", "C++", "C", "Python", "Javascript" ],
-        OtherLanguages : [ "HTML", "CSS", "Bash", "Json", "Markdown" ],
+    public static readonly ProgramingLife = {  
+        ProgramingLanguages : [ "Javascript", "TpScript", "Java", "C", "C++", "Python", "Go", "Rust", "Shell" ],
+        OtherLanguages : [ "HTML", "CSS", "Bash", "Json", "Yaml", "Markdown" ],
         Database : [ "Firebase", "Sqlite" ],
         Editors : [ "Vscode", "Sublime", "Neovim" ],
         Platforms : [ "GNU/Linux", "Windows" ],
@@ -116,7 +113,7 @@ class About extends SquirrelYe {
 
 ### 📚&nbsp;&nbsp;朝花夕拾，广纳百川
 
--  <img alt="GIF" src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/developer.gif?raw=true" width="25" /> &nbsp; I’m currently learning **Flutter & WebDev**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Owl.png" alt="Owl" width="15%" /><br>
+-  <img alt="GIF" src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/developer.gif?raw=true" width="25" /> &nbsp; I’m currently learning **Flutter & WebDev**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Sunflower.png" alt="Sunflower" width="15%" /><br>
 - <img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
 - <img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
 - <img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/spxd007)**<br>
