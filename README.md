@@ -32,7 +32,6 @@
 ![Web Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js)
 ![Web React](https://img.shields.io/badge/React-20232A?style=flat&logo=react) 
 ![Java SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat&logo=spring-boot)
-![Node Express](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express)
 ![Node KOA](https://img.shields.io/badge/Koa-404D59?style=flat&logo=koa)
 ![Node Nest](https://img.shields.io/badge/NestJS-404D59?style=flat&logo=nestjs)
 ![Tencent tRPC](https://img.shields.io/badge/Tencent-tRPC-404D59?style=flat&logo=go)
