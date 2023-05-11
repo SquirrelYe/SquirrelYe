@@ -70,7 +70,13 @@
 ![semicolon](https://img.shields.io/badge/-%3A-blueviolet)
 ![Tencent Cloud](https://img.shields.io/badge/Tencent_Cloud-02569B?style=flat&logo=tencent-cloud&logoColor=white)
 ![Aliyun](https://img.shields.io/badge/Aliyun-FF6A00?style=flat&logo=aliyun&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) <br /> <!-- 版本控制相关 -->
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) <br /> <!-- Serverless相关 -->
+![serverless_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Serverless%20I%20use-blue)
+![semicolon](https://img.shields.io/badge/-%3A-blue)
+![Tencent Cloud SCF](https://img.shields.io/badge/Tencent_Cloud_SCF-02569B?style=flat&logo=tencent-cloud&logoColor=white)
+![Aliyun FC](https://img.shields.io/badge/Aliyun_FC-FF6A00?style=flat&logo=aliyun&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![KNative](https://img.shields.io/badge/KNative-00ADD8?style=flat&logo=knative&logoColor=white) <br /> <!-- 版本控制相关 -->
 ![version_control_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Version%20Control%20I%20use-blue)
 ![semicolon](https://img.shields.io/badge/-%3A-blue)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) <br /> <!-- 编辑器相关 -->
@@ -103,10 +109,9 @@ class About extends SquirrelYe {
     public static readonly ProgramingLife = {  
         ProgramingLanguages : [ "Javascript", "TpScript", "Java", "C", "C++", "Python", "Go", "Rust", "Shell" ],
         OtherLanguages : [ "HTML", "CSS", "Bash", "Json", "Yaml", "Markdown" ],
-        Database : [ "Firebase", "Sqlite" ],
-        Editors : [ "Vscode", "Sublime", "Neovim" ],
-        Platforms : [ "GNU/Linux", "Windows" ],
-        OtherTools : [ "Git", "Figma", "Photoshop", "Gimp", "Lightroom" ]
+        Frameworks : [ "Vue", "React", "Spring Boot", "Express", "Koa", "NestJS", "Tencent tRPC", "Gin", "Gorm" ],
+        CrossPlatform : [  "Electron", "Tauri", "UniApp", "React Native" ],
+        ServerSideRendering : [ "Nuxt", "Next" ],
     };
 }
 ```
