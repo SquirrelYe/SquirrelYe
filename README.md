@@ -131,9 +131,9 @@ class About extends SquirrelYe {
 
 - <img alt="GIF" src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/developer.gif?raw=true" width="25" /> &nbsp; 任职于 **腾讯 IEG 互动娱乐事业群**，负责 **GAAS游戏中台** 前端研发工作； <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Sunflower.png" alt="Sunflower" width="15%" /><br>
 - <img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; 喜欢折腾，探索新奇，最近在看 **WebAssembly**、**Web GPU**、**Web VM**； <br>
-- <img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
-- <img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/spxd007)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
+- <img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; 一起讨论：**全栈**、**Web3**、**技术前沿**；<br>
+- <img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; 通过微信找到我：**WeChat: SquirrelYe**；<br>
+- &nbsp;&nbsp;<img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;闲看庭前花开花落，去留无意，漫随天外云卷云舒。<br>
 
 <div align="center" >
   <a  href="https://github.com/SquirrelYe">
