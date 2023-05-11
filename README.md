@@ -85,7 +85,7 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=flat&logo=sublime-text&logoColor=white)
 ![Web Storm](https://img.shields.io/badge/Web_Storm-000000?style=flat&logo=webstorm&logoColor=white)
-![GoLand](https://img.shields.io/badge/GoLand-000000?style=flat&logo=go&logoColor=white)
+![GoLand](https://img.shields.io/badge/GoLand-000000?style=flat&logo=goland&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white) <br /> <!-- 操作系统相关 -->
 ![os_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20OS%20I%20use-blue)
 ![semicolon](https://img.shields.io/badge/-%3A-blue)
