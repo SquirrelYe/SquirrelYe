@@ -103,6 +103,7 @@
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
 ![ELK](https://img.shields.io/badge/ELK-005571?style=flat&logo=elastic-stack&logoColor=white)
+![SkyWalking](https://img.shields.io/badge/SkyWalking-2F4FA6?style=flat&logo=apache&logoColor=white)
 
 
 ```ts
@@ -110,7 +111,7 @@ class About extends SquirrelYe {
     public static readonly ProgramingLife = {  
         ProgramingLanguages : [ "Javascript", "TpScript", "Java", "Python", "Go", "Rust", "Shell" ],
         OtherLanguages : [ "HTML", "CSS", "Bash", "Json", "Yaml", "Markdown" ],
-        Frameworks : [ "Vue", "React", "Spring Boot", "Express", "Koa", "NestJS", "Tencent tRPC", "Gin", "Gorm" ],
+        Frameworks : [ "Vue", "React", "Spring Boot", "Express", "Koa", "NestJS", "Tencent tRPC", "Gin", "Gorm", "GRPC" ],
         CrossPlatform : [  "Electron", "Tauri", "UniApp", "React Native" ],
         ServerSideRendering : [ "Nuxt", "Next" ],
         Utils: [ "Lodash", "RXJS", "RPC" ],
@@ -121,14 +122,14 @@ class About extends SquirrelYe {
         VersionControl : [ "Git" ],
         Editors : [ "VSCode", "Sublime Text", "Web Storm", "GoLand", "IntelliJ IDEA" ],
         OperatingSystems : [ "Ubuntu", "Windows", "MacOS" ],
-        Others : [ "Docker", "K8S", "CI/CD", "Nginx", "WebAssembly", "Web3.js", "Ethereum", "Solidity", "ELK" ]
+        Others : [ "Docker", "K8S", "CI/CD", "Nginx", "WebAssembly", "Web3.js", "Ethereum", "Solidity", "ELK", "SkyWalking" ]
     };
 }
 ```
 
 ### 📚&nbsp;&nbsp;朝花夕拾，广纳百川
 
-- <img alt="GIF" src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/developer.gif?raw=true" width="25" /> &nbsp; I’m currently learning **Flutter & WebDev**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Sunflower.png" alt="Sunflower" width="15%" /><br>
+- <img alt="GIF" src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/developer.gif?raw=true" width="25" /> &nbsp; 现在任职于腾讯 IEG 互动娱乐事业群，负责游戏中台前端研发工作。 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Sunflower.png" alt="Sunflower" width="15%" /><br>
 - <img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
 - <img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
 - <img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/spxd007)**<br>
