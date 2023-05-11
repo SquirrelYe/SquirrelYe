@@ -37,7 +37,8 @@
 ![Node Nest](https://img.shields.io/badge/NestJS-404D59?style=flat&logo=nestjs)
 ![Tencent tRPC](https://img.shields.io/badge/Tencent-tRPC-404D59?style=flat&logo=go)
 ![Go Gin](https://img.shields.io/badge/Gin-404D59?style=flat&logo=go)
-![Go Gorm](https://img.shields.io/badge/Gorm-404D59?style=flat&logo=go) <br /> <!-- 跨端开发相关 -->
+![Go Gorm](https://img.shields.io/badge/Gorm-404D59?style=flat&logo=go)
+![GRPC](https://img.shields.io/badge/GRPC-404D59?style=flat&logo=go) <br /> <!-- 跨端开发相关 -->
 ![cross_platform_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Cross%20Platform%20I%20use-green)
 ![semicolon](https://img.shields.io/badge/-%3A-green)
 ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=flat&logo=electron&logoColor=white)
@@ -128,7 +129,7 @@ class About extends SquirrelYe {
 
 ### 📚&nbsp;&nbsp;朝花夕拾，广纳百川
 
--  <img alt="GIF" src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/developer.gif?raw=true" width="25" /> &nbsp; I’m currently learning **Flutter & WebDev**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Sunflower.png" alt="Sunflower" width="15%" /><br>
+- <img alt="GIF" src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/developer.gif?raw=true" width="25" /> &nbsp; I’m currently learning **Flutter & WebDev**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Sunflower.png" alt="Sunflower" width="15%" /><br>
 - <img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
 - <img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
 - <img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/spxd007)**<br>
