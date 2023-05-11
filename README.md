@@ -97,10 +97,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![K8S](https://img.shields.io/badge/K8S-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![CI CD](https://img.shields.io/badge/CI/CD-000000?style=flat&logo=github-actions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat&logo=webassembly&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=ethereum&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
 ![ELK](https://img.shields.io/badge/ELK-005571?style=flat&logo=elastic-stack&logoColor=white)
 ![SkyWalking](https://img.shields.io/badge/SkyWalking-2F4FA6?style=flat&logo=apache&logoColor=white)
@@ -137,13 +135,13 @@ class About extends SquirrelYe {
 
 <div align="center" >
   <a  href="https://github.com/SquirrelYe">
-    <img src="https://raw.githubusercontent.com//SquirrelYe/SquirrelYe-Profile-Summary-Cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-    <img src="https://raw.githubusercontent.com//SquirrelYe/SquirrelYe-Profile-Summary-Cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-    <img src="https://raw.githubusercontent.com//SquirrelYe/SquirrelYe-Profile-Summary-Cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+    <img src="https://raw.githubusercontent.com/SquirrelYe/SquirrelYe-Profile-Summary-Cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+    <img src="https://raw.githubusercontent.com/SquirrelYe/SquirrelYe-Profile-Summary-Cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+    <img src="https://raw.githubusercontent.com/SquirrelYe/SquirrelYe-Profile-Summary-Cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
   </a>
   <details>
     <summary>More stats</summary>
-    <img align="center" src="https://raw.githubusercontent.com//SquirrelYe/SquirrelYe-Profile-Summary-Cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+    <img align="center" src="https://raw.githubusercontent.com/SquirrelYe/SquirrelYe-Profile-Summary-Cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
   </details>
 </div>
 
