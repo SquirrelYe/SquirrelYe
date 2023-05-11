@@ -102,16 +102,26 @@
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=ethereum&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![ELK](https://img.shields.io/badge/ELK-005571?style=flat&logo=elastic-stack&logoColor=white)
 
 
 ```ts
 class About extends SquirrelYe { 
     public static readonly ProgramingLife = {  
-        ProgramingLanguages : [ "Javascript", "TpScript", "Java", "C", "C++", "Python", "Go", "Rust", "Shell" ],
+        ProgramingLanguages : [ "Javascript", "TpScript", "Java", "Python", "Go", "Rust", "Shell" ],
         OtherLanguages : [ "HTML", "CSS", "Bash", "Json", "Yaml", "Markdown" ],
         Frameworks : [ "Vue", "React", "Spring Boot", "Express", "Koa", "NestJS", "Tencent tRPC", "Gin", "Gorm" ],
         CrossPlatform : [  "Electron", "Tauri", "UniApp", "React Native" ],
         ServerSideRendering : [ "Nuxt", "Next" ],
+        Utils: [ "Lodash", "RXJS", "RPC" ],
+        BuildTools : [ "Webpack", "Rollup", "Vite", "ES Build", "SWC", "PNPM" ],
+        Databases : [ "MySQL", "MongoDB", "Redis" ],
+        CloudServices : [ "Tencent Cloud", "Aliyun", "AWS" ],
+        Serverless: [ "Tencent SCF", "Aliyun FC", "AWS Lambda", "KNative" ],
+        VersionControl : [ "Git" ],
+        Editors : [ "VSCode", "Sublime Text", "Web Storm", "GoLand", "IntelliJ IDEA" ],
+        OperatingSystems : [ "Ubuntu", "Windows", "MacOS" ],
+        Others : [ "Docker", "K8S", "CI/CD", "Nginx", "WebAssembly", "Web3.js", "Ethereum", "Solidity", "ELK" ]
     };
 }
 ```
