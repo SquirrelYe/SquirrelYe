@@ -15,14 +15,14 @@
 
 <img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
 
-### 👨‍🚒&nbsp;&nbsp;探秘全栈开发世界的Web前端工程师！
+### 👨‍🚒&nbsp;&nbsp;Exploring the web front-end engineer in the world of full-stack development! 
 
-- 👋 大家好！我是一名在 **Tencent IEG 互动娱乐事业群** 工作三年的Web前端开发工程师。对于前后端技术全栈开发，我可谓是熟练掌握！ 🤓
-- 💻 作为一名前端工程师，我的主要工作是处理用户交互界面并和后台进行数据交互处理。同时，我也很擅长使用 **NodeJS**、**Golang**、**Java** 等后端语言进行全栈开发。 🔨
-- 🎉 在我的职业生涯中，我参与并负责了多个大型项目，包括游戏、社交平台以及电商应用等等。这些经历都让我更加深入理解了前端和后端开发的联系。 💼
-- 🔥 如果你想了解更多关于Web全栈开发的知识或者聊聊我的工作经验，请私信我哦！我们可以共同探索这个充满挑战但又充满机会的领域。 😍
+- 👋 Hello everyone! I am a web front-end development engineer who has worked in **Tencent IEG Business Group** for three years. For the full-stack development of front-end and back-end technologies, I can be said to be proficient! 🤓 
+- 💻 As a front-end engineer, my main job is to handle the user interface and interact with the background data. At the same time, I am also very good at using **NodeJS**, **Golang**, **Java** and other back-end languages ​​for full-stack development. 🔨 
+- 🎉 During my career, I have participated in and been responsible for several large-scale projects, including games, social platforms, and e-commerce applications. These experiences have given me a deeper understanding of the connection between front-end and back-end development. 💼 
+- 🔥 If you want to know more about web full-stack development or talk about my work experience, please private message me! Together we can explore this challenging but also opportunity-rich field. 😍 
 
-### 🛠&nbsp;&nbsp;拨开云雾，柳暗花明
+### 🛠&nbsp;&nbsp;Push away the clouds and mist, the willows are dark and the flowers are bright
 
 ![language_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Languages%20I%20use-orange) <!-- 编程语言相关 -->
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
@@ -132,13 +132,13 @@ class About extends SquirrelYe {
 }
 ```
 
-### 📚&nbsp;&nbsp;朝花夕拾，广纳百川
+### 📚&nbsp;&nbsp;Picking up flowers in the morning, accepting all rivers 
 
-- <img alt="GIF" src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/developer.gif?raw=true" width="25" /> &nbsp; 任职于 **腾讯 IEG 互动娱乐事业群**，负责 **GAAS游戏中台** 前端研发工作； <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Sunflower.png" alt="Sunflower" width="15%" /><br>
-- <img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; 喜欢折腾，探索新奇，最近在看 **WebAssembly**、**Web GPU**、**Web VM**； <br>
-- <img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; 一起讨论：**全栈**、**Web3**、**技术前沿**；<br>
-- <img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; 通过微信找到我：**SquirrelYe**；<br>
-- &nbsp;&nbsp;<img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;闲看庭前花开花落，去留无意，漫随天外云卷云舒。<br>
+- <img alt="GIF" src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/developer.gif?raw=true" width="25" /> &nbsp; Worked in **Tencent IEG Business Group**, responsible for the front-end research and development of **GAAS game platform**; <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Sunflower.png" alt="Sunflower" width="15%" /><br>
+- <img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; likes tossing, exploring novelty, recently watching **WebAssembly**, **Web GPU**, **Web VM**;  <br>
+- <img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Discuss together: **Full Stack**, **Web3**, **Technology Frontier**; <br>
+- <img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me via WeChat: **SquirrelYe**; <br>
+- &nbsp;&nbsp;<img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Go and stay without any intention, follow the clouds and clouds in the sky.<br>
 
 <div align="center" >
   <a  href="https://github.com/SquirrelYe">
@@ -152,7 +152,7 @@ class About extends SquirrelYe {
   </details>
 </div>
 
-### 📫&nbsp;&nbsp;寻寻觅觅，冷冷清清
+### 📫&nbsp;&nbsp;Looking for and looking, deserted 
 
 [<img src="https://img.shields.io/badge/Email: will@aesen.cc-282C34?logo=gmail&logoColor=EA4335" alt="Email logo" title="Email" height="25" />][profile_mail]
 &nbsp;
@@ -160,7 +160,7 @@ class About extends SquirrelYe {
 &nbsp;
 [<img src="https://img.shields.io/badge/QQ: 1191882955-282C34?logo=tencent-qq&logoColor=EB1923" alt="QQ logo" title="QQ" height="25" />][profile_qq_image]
 
-### 📊&nbsp;&nbsp;时光荏苒，光阴似箭
+### 📊&nbsp;&nbsp;Time flies, time flies like an arrow 
 
 [<img src="https://komarev.com/ghpvc/?username=SquirrelYe&style=flat-square&color=orange&label=Profile+Views" alt="Profile Views" title="Profile Views" height="23" />][statistic_profile_views]
 

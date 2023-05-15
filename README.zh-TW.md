@@ -1,4 +1,4 @@
-### 👋&nbsp;&nbsp;Hi there, I'm SquirrelYe 「风继续吹」!
+### 👋&nbsp;&nbsp;Hi there, I'm SquirrelYe 「風繼續吹」! 
 
 <!-- Language -->
 <p align="left">
@@ -15,14 +15,14 @@
 
 <img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
 
-### 👨‍🚒&nbsp;&nbsp;探秘全栈开发世界的Web前端工程师！
+### 👨‍🚒&nbsp;&nbsp;探秘全棧開發世界的Web前端工程師！
 
-- 👋 大家好！我是一名在 **Tencent IEG 互动娱乐事业群** 工作三年的Web前端开发工程师。对于前后端技术全栈开发，我可谓是熟练掌握！ 🤓
-- 💻 作为一名前端工程师，我的主要工作是处理用户交互界面并和后台进行数据交互处理。同时，我也很擅长使用 **NodeJS**、**Golang**、**Java** 等后端语言进行全栈开发。 🔨
-- 🎉 在我的职业生涯中，我参与并负责了多个大型项目，包括游戏、社交平台以及电商应用等等。这些经历都让我更加深入理解了前端和后端开发的联系。 💼
-- 🔥 如果你想了解更多关于Web全栈开发的知识或者聊聊我的工作经验，请私信我哦！我们可以共同探索这个充满挑战但又充满机会的领域。 😍
+- 👋 大家好！我是一名在**Tencent IEG 互動娛樂事業群** 工作三年的Web前端開發工程師。對於前後端技術全棧開發，我可謂是熟練掌握！🤓 
+- 💻 作為一名前端工程師，我的主要工作是處理用戶交互界面並和後台進行數據交互處理。同時，我也很擅長使用**NodeJS**、**Golang**、**Java** 等後端語言進行全棧開發。🔨 
+- 🎉 在我的職業生涯中，我參與並負責了多個大型項目，包括遊戲、社交平台以及電商應用等等。這些經歷都讓我更加深入理解了前端和後端開發的聯繫。💼 
+- 🔥 如果你想了解更多關於Web全棧開發的知識或者聊聊我的工作經驗，請私信我哦！我們可以共同探索這個充滿挑戰但又充滿機會的領域。😍 
 
-### 🛠&nbsp;&nbsp;拨开云雾，柳暗花明
+### 🛠&nbsp;&nbsp;撥開雲霧，柳暗花明
 
 ![language_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Languages%20I%20use-orange) <!-- 编程语言相关 -->
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
@@ -132,13 +132,13 @@ class About extends SquirrelYe {
 }
 ```
 
-### 📚&nbsp;&nbsp;朝花夕拾，广纳百川
+### 📚&nbsp;&nbsp;朝花夕拾，廣納百川
 
-- <img alt="GIF" src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/developer.gif?raw=true" width="25" /> &nbsp; 任职于 **腾讯 IEG 互动娱乐事业群**，负责 **GAAS游戏中台** 前端研发工作； <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Sunflower.png" alt="Sunflower" width="15%" /><br>
-- <img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; 喜欢折腾，探索新奇，最近在看 **WebAssembly**、**Web GPU**、**Web VM**； <br>
-- <img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; 一起讨论：**全栈**、**Web3**、**技术前沿**；<br>
-- <img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; 通过微信找到我：**SquirrelYe**；<br>
-- &nbsp;&nbsp;<img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;闲看庭前花开花落，去留无意，漫随天外云卷云舒。<br>
+- <img alt="GIF" src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/developer.gif?raw=true" width="25" /> &nbsp; 任職於**騰訊IEG 互動娛樂事業群**，負責**GAAS遊戲中台** 前端研發工作； <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Sunflower.png" alt="Sunflower" width="15%" /><br>
+- <img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; 喜歡折騰，探索新奇，最近在看**WebAssembly**、**Web GPU**、**Web VM**； <br>
+- <img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; 一起討論：**全棧**、**Web3**、**技術前沿**；<br>
+- <img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; 通過微信找到我：**SquirrelYe**；<br>
+- &nbsp;&nbsp;<img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;閒看庭前花開花落，去留無意，漫隨天外雲卷雲舒。<br>
 
 <div align="center" >
   <a  href="https://github.com/SquirrelYe">
@@ -152,7 +152,7 @@ class About extends SquirrelYe {
   </details>
 </div>
 
-### 📫&nbsp;&nbsp;寻寻觅觅，冷冷清清
+### 📫&nbsp;&nbsp;尋尋覓覓，冷冷清清
 
 [<img src="https://img.shields.io/badge/Email: will@aesen.cc-282C34?logo=gmail&logoColor=EA4335" alt="Email logo" title="Email" height="25" />][profile_mail]
 &nbsp;
@@ -160,7 +160,7 @@ class About extends SquirrelYe {
 &nbsp;
 [<img src="https://img.shields.io/badge/QQ: 1191882955-282C34?logo=tencent-qq&logoColor=EB1923" alt="QQ logo" title="QQ" height="25" />][profile_qq_image]
 
-### 📊&nbsp;&nbsp;时光荏苒，光阴似箭
+### 📊&nbsp;&nbsp;時光荏苒，光陰似箭
 
 [<img src="https://komarev.com/ghpvc/?username=SquirrelYe&style=flat-square&color=orange&label=Profile+Views" alt="Profile Views" title="Profile Views" height="23" />][statistic_profile_views]
 
