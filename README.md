@@ -138,7 +138,7 @@ class About extends SquirrelYe {
 - <img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; 喜欢折腾，探索新奇，最近在看 **WebAssembly**、**Web GPU**、**Web VM**； <br>
 - <img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; 一起讨论：**全栈**、**Web3**、**技术前沿**；<br>
 - <img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; 通过微信找到我：**SquirrelYe**；<br>
-- &nbsp;&nbsp;<img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;闲看庭前花开花落，去留无意，漫随天外云卷云舒。<br>
+- &nbsp;&nbsp;<img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;宠辱不惊，闲看庭前花开花落；去留无意，漫随天外云卷云舒。<br>
 
 <div align="center" >
   <a  href="https://github.com/SquirrelYe">
