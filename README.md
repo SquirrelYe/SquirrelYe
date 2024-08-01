@@ -17,7 +17,7 @@
 
 ### 👨‍🚒&nbsp;&nbsp;探秘全栈开发世界的Web前端工程师！
 
-- 👋 大家好！我是一名在 **Tencent IEG 互动娱乐事业群** 工作三年的Web前端开发工程师。对于前后端技术全栈开发，我可谓是熟练掌握！ 🤓
+- 👋 大家好！我是一名在 **Tencent IEG 互动娱乐事业群** 工作四年的Web前端开发工程师。对于前后端技术全栈开发，我可谓是熟练掌握！ 🤓
 - 💻 作为一名前端工程师，我的主要工作是处理用户交互界面并和后台进行数据交互处理。同时，我也很擅长使用 **NodeJS**、**Golang**、**Java** 等后端语言进行全栈开发。 🔨
 - 🎉 在我的职业生涯中，我参与并负责了多个大型项目，包括游戏、社交平台以及电商应用等等。这些经历都让我更加深入理解了前端和后端开发的联系。 💼
 - 🔥 如果你想了解更多关于Web全栈开发的知识或者聊聊我的工作经验，请私信我哦！我们可以共同探索这个充满挑战但又充满机会的领域。 😍
@@ -134,7 +134,7 @@ class About extends SquirrelYe {
 
 ### 📚&nbsp;&nbsp;朝花夕拾，广纳百川
 
-- <img alt="GIF" src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/developer.gif?raw=true" width="25" /> &nbsp; 任职于 **腾讯 IEG 互动娱乐事业群**，负责 **GAAS游戏中台** 前端研发工作； <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Sunflower.png" alt="Sunflower" width="15%" /><br>
+- <img alt="GIF" src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/developer.gif?raw=true" width="25" /> &nbsp; 任职于 **腾讯 IEG 互动娱乐事业群**，负责 **GaaS游戏中台** 前端研发工作； <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Sunflower.png" alt="Sunflower" width="15%" /><br>
 - <img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; 喜欢折腾，探索新奇，最近在看 **WebAssembly**、**Web GPU**、**Web VM**； <br>
 - <img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; 一起讨论：**全栈**、**Web3**、**技术前沿**；<br>
 - <img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; 通过微信找到我：**SquirrelYe**；<br>
