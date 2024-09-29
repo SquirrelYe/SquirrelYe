@@ -1,4 +1,4 @@
-### 👋&nbsp;&nbsp;Hi there, I'm SquirrelYe 「风继续吹」!
+### 👋&nbsp;&nbsp;Hi there, I'm Will 「风继续吹」!
 
 <!-- Language -->
 <p align="left">
@@ -139,6 +139,7 @@ class About extends SquirrelYe {
 - <img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; 一起讨论：**全栈**、**Web3**、**技术前沿**；<br>
 - <img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; 通过微信找到我：**SquirrelYe**；<br>
 - &nbsp;&nbsp;<img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;宠辱不惊，闲看庭前花开花落；去留无意，漫随天外云卷云舒。<br>
+- &nbsp;&nbsp;<img src="https://github.com/SquirrelYe/SquirrelYe/blob/main/images/linux_rounded.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;追风赶月莫停留，平芜尽处是春山。<br>
 
 <div align="center" >
   <a  href="https://github.com/SquirrelYe">
